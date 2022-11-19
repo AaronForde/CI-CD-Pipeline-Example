@@ -6,7 +6,7 @@ The aim of this repo is to setup a simple React applciation with some tests whic
 
 Create react app was used to setup a simple front end.
 the application consists of a button which generates some random text when clicked. 
-Tests are located.. which verify that the application works. tests can be ran by running `npm test` in the CI/CD example directory.
+Tests are located in `src/App.test.js` which verify that the application works. Tests can be run using `npm test` in the root directory.
 
 ## Connecting To CircleCI
 
