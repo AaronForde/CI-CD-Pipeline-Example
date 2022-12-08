@@ -40,6 +40,14 @@ You can view the jobs that ran by clicking on the on the black triangle beside t
 
 Clicking on the jobs that have ran will then display all the steps involved in running that particular job.
 
+## Circle Ci pipeline
+
+https://app.circleci.com/pipelines/github/AaronForde/CI-CD-Pipeline-Example
+
+## Heroku Deployment
+
+https://nameless-wave-74083.herokuapp.com/
+
 
 ### Links to Circle Ci's getting started guides
 
